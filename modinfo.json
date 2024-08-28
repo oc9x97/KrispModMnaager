@@ -10,9 +10,17 @@
   {
     "name": "Utilla",
     "author": "Bobbie & Violet",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
+    "version": "0.0.1",
+    "git_path": "violet/KrispUtilla",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
+    "download_url": "https://github.com/violet/KrispUtilla/"
+  },
+  {
+    "name": "Unity Explorer",
+    "author": "sinai-dev",
+    "version": "4.9.0",
+    "git_path": "sinai-dev/UnityExplorer",
+    "group": "Libraries",
+    "download_url": "https://github.com/sinai-dev/UnityExplorer/releases/download/4.9.0/UnityExplorer.BepInEx5.Mono.zip"
   },
 ]
